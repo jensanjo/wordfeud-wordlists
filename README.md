@@ -16,6 +16,8 @@ Specifically:
 * remove words that can not be formed by the tile set for that language
 * remove words that use more than 15 tiles (improves efficiency)
 
+
+
 * [Wordfeud dictionaries](https://wordfeud.com/dictionaries/)
 
 * [Wordfeud Languages](https://www.word-grabber.com/word-lists/wordfeud-languages)
