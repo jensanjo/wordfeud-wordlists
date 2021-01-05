@@ -10,7 +10,11 @@ It has been processed by the author.
 
 ## Other wordlists
 
-Here are some links to other wordlists. They are not maintained by me.
+Here are some links to other wordlists. They are not maintained by me, and may need some processing before they are can be used.
+Specifically:
+* remove any comment lines
+* remove words that can not be formed by the tile set for that language
+* remove words that use more than 15 tiles (improves efficiency)
 
 * [Wordfeud dictionaries](https://wordfeud.com/dictionaries/)
 
